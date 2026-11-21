@@ -1,0 +1,14 @@
+<Project>
+  <!-- Settings shared by every project in the solution -->
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <!-- Bump Version for each GitHub release -->
+    <Version>0.1.0</Version>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+    <Product>TidyBox</Product>
+    <Copyright>Copyright (c) 2026 Fasih Munir</Copyright>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TidyBox.Cli/TidyBox.Cli.csproj" />
+    <Project Path="src/TidyBox.Core/TidyBox.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TidyBox.Tests/TidyBox.Tests.csproj" />
+  </Folder>
+</Solution>

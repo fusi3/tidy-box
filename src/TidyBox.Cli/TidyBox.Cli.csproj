@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Command-line tool for the dry run and the accuracy test (phases 0 and 1) -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>tidybox</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TidyBox.Core\TidyBox.Core.csproj" />
+  </ItemGroup>
+
+</Project>
